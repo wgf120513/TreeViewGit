@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeView", "TreeView.csproj", "{EAD6BA3F-3FB0-C971-0949-892F8581EDED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD6BA3F-3FB0-C971-0949-892F8581EDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD6BA3F-3FB0-C971-0949-892F8581EDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD6BA3F-3FB0-C971-0949-892F8581EDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD6BA3F-3FB0-C971-0949-892F8581EDED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
